@@ -1,0 +1,7 @@
+Movie Ticket Sales Report
+------------------------
+Movie: Oppenheimer
+Number of Tickets: 1
+Price per Ticket: R22,00
+VAT Amount: R3,08
+Total Amount: R25,08
